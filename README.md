@@ -15,7 +15,6 @@ Main Features of Tro Tools Theme
 - Professional UI → Neat design that attracts users and improves engagement.  
 - Completely Free → You can download and use without any cost.  
 
----
 
 Demo and Download  
 
